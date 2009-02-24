@@ -46,9 +46,9 @@ feed 20m http://marcelosoft.blogspot.com/feeds/posts/default/-/python
 feed 20m http://chaghi.com.ar/blog/rss.php?blogId=1&profile=atom
     define_name (cHagHi)
     
-# Marcelo Dione
+# Marcos Dione
 feed 20m http://grulicueva.homelinux.net/~mdione/glob/index.atom
-    define_name Marcelo Dione
+    define_name Marcos Dione
     
 # Nico Cesar
 feed 20m http://nicocesar.com/?q=node/feed&PHPSESSID=2f8783159a1e8ca7e96bfcda9dbbe8bf

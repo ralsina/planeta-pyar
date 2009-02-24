@@ -40,9 +40,9 @@ feed 20m http://humitos.wordpress.com/category/python/feed/
 # Chaghi
 # No tiene RSS solo python
 
-# Marcelo Dione
+# Marcos Dione
 feed 20m http://grulicueva.homelinux.net/~mdione/glob/tags/python/index.atom
-    define_name Marcelo Dione
+    define_name Marcos Dione
     
 # Nico Cesar
 # No tiene RSS solo python
