@@ -1,0 +1,90 @@
+#############
+# Feeds full
+#############
+
+# Anthony Lenton
+feed 20m http://anthony.lenton.com.ar/feed/es/
+    define_name Anthony Lenton
+
+# Rivendel
+feed 20m http://www.ceportela.com.ar/?feed=rss2
+    define_name C&amp;eacute;sar Portela
+    
+# Facundo Batista
+feed 20m http://feeds2.feedburner.com/com/wEER
+    define_name Facundo Batista
+    
+# Gabriel Patiño
+feed 20m http://gepatino.blogspot.com/feeds/posts/default
+    define_name Gabriel Patiño
+    
+# Guillermo Heizenreder
+feed 20m http://gheize.wordpress.com/feed/
+    define_name Guillermo Heizenreder
+    
+# John Lenton
+feed 20m http://john.lenton.com.ar/feed/
+    define_name John Lenton
+    
+# Juanjo Conti
+feed 20m http://www.juanjoconti.com.ar/feed/
+    define_name Juanjo Conti
+    
+# Leito Monk
+feed 20m http://audiolibre.com.ar/?feed=atom
+    define_name Leito Monk
+
+# Humitos
+feed 20m http://feeds.feedburner.com/Humitos
+    define_name Manuel Kaufmann (Humitos)
+    
+# Marcelo Fern&#225;ndez
+feed 20m http://marcelosoft.blogspot.com/feeds/posts/default/-/python
+    define_name Marcelo Fern&#225;ndez
+    
+# Chaghi
+feed 20m http://chaghi.com.ar/blog/rss.php?blogId=1&profile=atom
+    define_name (cHagHi)
+    
+# Marcelo Dione
+feed 20m http://grulicueva.homelinux.net/~mdione/glob/index.atom
+    define_name Marcelo Dione
+    
+# Nico Cesar
+feed 20m http://nicocesar.com/?q=node/feed&PHPSESSID=2f8783159a1e8ca7e96bfcda9dbbe8bf
+    define_name Nicol&#225;s C&amp;eacute;sar
+    
+# PyAr OLPC
+feed 20m http://pyar-olpc.blogspot.com/feeds/posts/default
+
+# Roberto Alsina
+feed 20m http://feeds.feedburner.com/LateralOpinion
+    define_name Roberto Alsina
+    
+# Roberto Allende
+feed 20m http://robertoallende.com/blog/RSS
+    define_name Roberto Allende
+
+# Sebastian Bassi
+feed 20m http://www.bioinformatica.info/seba/atom.xml
+    define_name Sebastian Bassi
+    
+# Mariano Guerra
+feed 20m http://marianoguerra.blogspot.com/feeds/posts/default/
+    define_name Mariano Guerra
+    
+# Ramiro Morales
+feed 20m http://rmorales.com.ar/blog/feed/
+    define_name Ramiro Morales
+    
+# Nicolas Miyasato
+feed 20m http://nmiyasato.blogspot.com/feeds/posts/default
+    define_name Nicol&#225;s Miyasato
+    
+# Javier Castrillo
+feed 20m http://javiercastrillo.wordpress.com/feed/
+    define_name Javier Castrillo
+   
+# Nicolas Echaniz
+feed 20m http://www.etxaniz.com.ar/blog/index.php?blog=2&tempskin=_atom
+    define_name Nicol&#225;s Echaniz 

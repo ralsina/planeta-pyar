@@ -1,0 +1,73 @@
+###################
+# Feeds solo python
+###################
+
+# Anthony Lenton
+feed 20m http://anthony.lenton.com.ar/?feed=rss2&cat=4&language=es
+    define_name Anthony Lenton
+    
+# Rivendel
+# No tiene RSS solo python
+
+# Facundo Batista
+# No tiene RSS solo python
+
+# Gabriel Patiño
+feed 20m http://gepatino.blogspot.com/feeds/posts/default/-/Python
+    define_name Gabriel Patiño
+    
+# Guillermo Heizenrede 
+feed 20m http://gheize.wordpress.com/category/programacion/python/feed/
+    define_name Guillermo Heienrede
+    
+# John Lenton
+# No tiene RSS solo python
+
+# Juanjo Conti
+feed 20m http://www.juanjoconti.com.ar/categoria/aprendiendo-python/feed/
+    define_name Juanjo Conti
+    
+# Leito Monk
+# No tiene RSS solo python
+
+# Humitos
+feed 20m http://humitos.wordpress.com/category/python/feed/
+    define_name Humitos
+
+# Marcelo Fernandez
+# No tiene RSS solo python
+
+# Chaghi
+# No tiene RSS solo python
+
+# Marcelo Dione
+feed 20m http://grulicueva.homelinux.net/~mdione/glob/tags/python/index.atom
+    define_name Marcelo Dione
+    
+# Nico Cesar
+# No tiene RSS solo python
+
+# PyAr OLPC
+feed 20m http://pyar-olpc.blogspot.com/feeds/posts/default
+
+# Roberto Alsina
+feed 20m http://lateral.netmanagers.com.ar/categories/python.xml
+    define_name Roberto Alsina
+    
+# Roberto Allende
+# No tiene RSS solo python
+
+# Sebastian Bassi
+# No tiene RSS solo python
+
+# Mariano Guerra
+feed 20m http://marianoguerra.blogspot.com/feeds/posts/default/-/python
+    define_name Mariano Guerra
+    
+# Ramiro Morales
+feed 20m http://rmorales.com.ar/blog/category/python/feed/
+    define_name Ramiro Morales
+    
+# Nicolas Miyasato
+feed 20m http://mypythonnotes.wordpress.com/feed/ 
+    define_name Nicol&#225;s Miyasato
