@@ -1,52 +1,22 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
-   "http://www.w3.org/TR/html4/strict.dtd">
-<html lang="es">
-<head>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <meta name="robots" content="noindex,nofollow,noarchive">
-__refresh__
-    <link rel="stylesheet" href="style.css" type="text/css">
-    <link rel="alternate" type="application/rss+xml" title="Planet PyAr (Full)" href="http://feeds2.feedburner.com/PlanetaPyar" />
-    <link rel="alternate" type="application/rss+xml" title="Planet PyAr (Python)" href="http://feeds2.feedburner.com/PlanetaPyarpython" />
-    <title>Planeta PyAr</title>
-<body id="rawdog">
-<div id="header">
-<h1>Planeta PyAr</h1>
-</div>
-<div id="Barra" style="text-align:center; font-size:small; margin-top=1em;">
+<%inherit file="template-base"/>
+
+<%def name="titulo()">
+Planeta Python Argentina
+</%def>
+
+<%def name="barra()"> 
 <a href="http://python.org.ar">Python Argentina</a>&nbsp;&bull;&nbsp;
 <a href="http://planeta.python.org.ar/python.html">S&oacute;lo Python</a>
-</div>
-<div id="items">
-__items__
-</div>
-<div id="feedstats">
-<h2 id="feedstatsheader">Feeds</h2>
-<div style="height:400px;width:100%;"><a href="http://grazr.com/read?view=s&file=http://planeta.python.org.ar/feeds.opml" ><img alt="Grazr" src="http://static.grazr.com/images/grazrbadge.png" style="border:none"></a><script defer="defer" type="text/javascript" src="http://static.grazr.com/gzloader.js?view=s&amp;file=http://planeta.python.org.ar/feeds.opml"></script>
-</div>
-<a href="http://planeta.python.org.ar/feeds.opml">OPML</a> - 
-<a href="http://planeta.python.org.ar/foafroll.xml">FOAF</a> - 
-<a href="http://planeta.python.org.ar/index.xml">RSS</a> -
-<a href="http://planeta.python.org.ar/log.html">Log</a>
-</div>
-<div id="footer">
-<p id="aboutrawdog">Generado por
-<a href="http://offog.org/code/rawdog.html">rawdog</a>
-version __version__
-by <a href="mailto:ats@offog.org">Adam Sampson</a>.</p>
-<p>Configuraci&oacute;n y scripts en <a href="http://github.com/ralsina/planeta-pyar/tree/master">GitHub</a></p>
-<p>Administraci&oacute;n y hosting cortes&iacute;a de <a href="http://netmanagers.com.ar">Net Managers SRL</a></p>
-</div>
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-1639287-13");
-pageTracker._trackPageview();
-} catch(err) {}</script>
-</head>
-</body>
-</html>
+</%def>
 
+<%def name="grazr()">
+<div style="height:400px;width:100%;">
+    <a href="http://grazr.com/read?view=s&file=http://planeta.python.org.ar/feeds.opml" >
+        <img alt="Grazr" src="http://static.grazr.com/images/grazrbadge.png" style="border:none">
+    </a>
+    <script defer="defer" type="text/javascript" src="http://static.grazr.com/gzloader.js?view=s&amp;file=http://planeta.python.org.ar/feeds.opml"></script>
+    <a href="http://planeta.python.org.ar/feeds.opml">OPML</a> - 
+    <a href="http://planeta.python.org.ar/foafroll.xml">FOAF</a> - 
+    <a href="http://planeta.python.org.ar/index.xml">RSS</a>
+</div>
+</%def>

@@ -1,14 +1,16 @@
-<div class="item feed-__feed_hash__ feed-__feed_id__" id="item-__hash__">
+<div class="item feed-${feed_hash} feed-{feed_id}" id="item-${hash}">
 <p class="itemheader">
 <span class="itemtitle">
-__if_name__ __name__:
-__else__ __feed_title__:
-__endif__
-__title__</span>
+%if name:
+    ${name}:
+%else:
+    ${feed_title}:
+%endif
+${title}</span>
 </p>
-__if_description__<div class="itemdescription">
-__description__
-</div>__endif__
+%if description:
+    <div class="itemdescription">
+    ${description}
+    </div>
+%endif
 </div>
-
-
