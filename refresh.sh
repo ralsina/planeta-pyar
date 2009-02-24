@@ -16,4 +16,5 @@ LANG=es_ES rawdog -c config-full -w
 LANG=es_ES rawdog -c config-python -w
 
 # Subir a github
+git commit .
 git push origin master 
