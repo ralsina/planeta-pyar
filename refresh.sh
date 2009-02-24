@@ -15,6 +15,9 @@ LANG=es_ES rawdog -c config-full -w
 # Regenerar planeta solo python
 LANG=es_ES rawdog -c config-python -w
 
+# Actualizar el CSS del sitio
+cp style.css /srv/www/pyar
+
 # Subir a github
 git commit -a
 git push origin master 
