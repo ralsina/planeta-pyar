@@ -14,4 +14,6 @@ LANG=es_ES rawdog -c config-full -w
 
 # Regenerar planeta solo python
 LANG=es_ES rawdog -c config-python -w
- 
+
+# Subir a github
+git push origin master 
