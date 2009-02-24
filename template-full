@@ -17,6 +17,7 @@ Planeta Python Argentina
     <script defer="defer" type="text/javascript" src="http://static.grazr.com/gzloader.js?view=s&amp;file=http://planeta.python.org.ar/feeds.opml"></script>
     <a href="http://planeta.python.org.ar/feeds.opml">OPML</a> - 
     <a href="http://planeta.python.org.ar/foafroll.xml">FOAF</a> - 
-    <a href="http://planeta.python.org.ar/index.xml">RSS</a>
+    <a href="http://planeta.python.org.ar/index.xml">RSS</a> -
+    <a href="http://planeta.python.org.ar/log.html">Log</a>
 </div>
 </%def>

@@ -18,6 +18,7 @@ Planeta Python Argentina (S&oacute;lo Python)
 </div>
 <a href="http://planeta.python.org.ar/feeds-python.opml">OPML</a> - 
 <a href="http://planeta.python.org.ar/foafroll-python.xml">FOAF</a> - 
-<a href="http://planeta.python.org.ar/python.xml">RSS</a>
+<a href="http://planeta.python.org.ar/python.xml">RSS</a> -
+<a href="http://planeta.python.org.ar/log.html">Log</a>
 </div>
 </%def>
