@@ -26,7 +26,8 @@ __items__
 </div>
 <a href="http://planeta.python.org.ar/feeds.opml">OPML</a> - 
 <a href="http://planeta.python.org.ar/foafroll.xml">FOAF</a> - 
-<a href="http://planeta.python.org.ar/index.xml">RSS</a>
+<a href="http://planeta.python.org.ar/index.xml">RSS</a> -
+<a href="http://planeta.python.org.ar/log.html">Log</a>
 </div>
 <div id="footer">
 <p id="aboutrawdog">Generado por
