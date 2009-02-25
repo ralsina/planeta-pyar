@@ -21,9 +21,12 @@
     links = dom1.getElementsByTagName('outline')
     feedlist=''
     for link in links:
-        linktext = '<a href="' + link.getAttribute('htmlUrl') + '">'
-        linktext += link.getAttribute('text') + '</a><br />\n'
+        linktext = '<a href="%s">%s</a>\n'%(link.getAttribute('htmlUrl'),
+                                            link.getAttribute('text'))
+        flinktext= '<a href="%s"><img src="feed-icon-14x14.png"></a>\n'%link.getAttribute('xmlUrl')
         feedlist+=linktext
+        feedlist+=flinktext
+        feedlist+='<br>\n'
     return feedlist
 %>
 </%def>
