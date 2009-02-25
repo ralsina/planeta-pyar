@@ -22,3 +22,8 @@ Planeta Python Argentina (S&oacute;lo Python)
 <a href="http://planeta.python.org.ar/log.html">Log</a>
 </div>
 </%def>
+
+<%def name="validrss()">
+<a href="http://feedvalidator.org.li.sabren.com/check.cgi?url=http%3A//planeta.python.org.ar/python.xml"><img src="valid-rss.png" alt="[Valid RSS]" title="Validate my RSS feed" /></a>
+<a href="http://validator.opml.org/?url=http%3A%2F%2Fplaneta.python.org.ar%2Ffeeds-python.opml"><img src="http://images.scripting.com/archiveScriptingCom/2005/10/31/valid3.gif" width="114" height="20" border="0" alt="OPML checked by validator.opml.org."></a>
+</%def>

@@ -8,7 +8,7 @@ feed 20m http://anthony.lenton.com.ar/feed/es/
 
 # Rivendel
 feed 20m http://www.ceportela.com.ar/?feed=rss2
-    define_name C&amp;eacute;sar Portela
+    define_name C&#233;sar Portela
     
 # Facundo Batista
 feed 20m http://feeds2.feedburner.com/com/wEER
@@ -16,7 +16,7 @@ feed 20m http://feeds2.feedburner.com/com/wEER
     
 # Gabriel Patiño
 feed 20m http://gepatino.blogspot.com/feeds/posts/default
-    define_name Gabriel Patiño
+    define_name Gabriel Pati&#241;o
     
 # Guillermo Heizenreder
 feed 20m http://gheize.wordpress.com/feed/
@@ -52,7 +52,7 @@ feed 20m http://grulicueva.homelinux.net/~mdione/glob/index.atom
     
 # Nico Cesar
 feed 20m http://nicocesar.com/?q=node/feed&PHPSESSID=2f8783159a1e8ca7e96bfcda9dbbe8bf
-    define_name Nicol&#225;s C&amp;eacute;sar
+    define_name Nicol&#225;s C&#233;sar
     
 # PyAr OLPC
 feed 20m http://pyar-olpc.blogspot.com/feeds/posts/default
@@ -87,4 +87,4 @@ feed 20m http://javiercastrillo.wordpress.com/feed/
    
 # Nicolas Echaniz
 feed 20m http://www.etxaniz.com.ar/blog/index.php?blog=2&tempskin=_atom
-    define_name Nicol&#225;s Echaniz 
+    define_name Nicol&#225;s Ech&#225;niz 

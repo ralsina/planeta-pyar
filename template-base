@@ -1,15 +1,15 @@
-
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
    "http://www.w3.org/TR/html4/strict.dtd">
 <html lang="es">
 <%def name="titulo()">
 </%def>
-
 <%def name="barra()">
 </%def>
-
 <%def name="grazr()">
 </%def>
+<%def name="validrss()">
+</%def>
+
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta name="robots" content="noarchive">
@@ -39,6 +39,9 @@ version ${version}
 by <a href="mailto:ats@offog.org">Adam Sampson</a>.</p>
 <p>Configuraci&oacute;n y scripts en <a href="http://github.com/ralsina/planeta-pyar/tree/master">GitHub</a></p>
 <p>Administraci&oacute;n y hosting cortes&iacute;a de <a href="http://netmanagers.com.ar">Net Managers SRL</a></p>
+<p>
+${self.validrss()}
+</p>
 </div>
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");

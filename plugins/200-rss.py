@@ -193,6 +193,7 @@ class RSS_Feed:
 
         xml = doc.newChild(None, 'opml', None)
         xml.setProp('version', "1.1")
+        xml.setProp('encoding', "utf-8")
 
         head = xml.newChild(None, 'head', None)
         head.newChild(None, 'title', self.options["xmltitle"])
@@ -225,6 +226,12 @@ class RSS_Feed:
         if len(self.feeds) != 0:
             articles[:] = [a for a in articles if self.feeds.has_key(a.feed)]
         return True
+
+import re
+from htmlentitydefs import name2codepoint
+def htmlentitydecode(s):
+    return re.sub('&(%s);' % '|'.join(name2codepoint), 
+            lambda m: unichr(name2codepoint[m.group(1)]), s)
 
 rss_feed = RSS_Feed()
 rawdoglib.plugins.attach_hook("output_sorted_filter", rss_feed.filter_feeds)
