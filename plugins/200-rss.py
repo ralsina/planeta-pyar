@@ -211,7 +211,8 @@ class RSS_Feed:
             outline.setProp('text', self.feed_name(rawdog.feeds[url], config))
             outline.setProp('type', 'rss')
             outline.setProp('xmlUrl', url)
-            outline.setProp('htmlUrl',rawdog.feeds[url].get_html_link(config))
+            outline.setProp('htmlUrl',rawdog.feeds[url].feed_info.get("link"))
+            outline.setProp('title',rawdog.feeds[url].get_html_name(config))
 
         doc.saveFormatFile(self.options["outputopml"], 1)
         doc.freeDoc()
