@@ -45,6 +45,10 @@ h3 {
     margin-top: 2em;
 }
 
+img {
+    border: none;
+}
+
 #items {
     margin: 1em;
     width: 400px;
