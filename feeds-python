@@ -16,9 +16,9 @@ feed 20m http://anthony.lenton.com.ar/?feed=rss2&cat=4&language=es
 feed 20m http://gepatino.blogspot.com/feeds/posts/default/-/Python
     define_name Gabriel Pati&#241;o
     
-# Guillermo Heizenrede 
+# Guillermo Heizenreder
 feed 20m http://gheize.wordpress.com/category/programacion/python/feed/
-    define_name Guillermo Heienrede
+    define_name Guillermo Heizenreder
     
 # John Lenton
 # No tiene RSS solo python

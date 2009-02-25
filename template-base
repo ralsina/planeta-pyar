@@ -9,6 +9,24 @@
 </%def>
 <%def name="validrss()">
 </%def>
+<%def name="opmlfile()">
+    <% return '/srv/www/pyar/feeds.opml' %>
+</%def>
+<%def name="readopml(opml)">
+<%
+    from xml.dom.minidom import parse, parseString
+    import urllib2
+
+    dom1 = parseString(open(opml).read())
+    links = dom1.getElementsByTagName('outline')
+    feedlist=''
+    for link in links:
+        linktext = '<a href="' + link.getAttribute('htmlUrl') + '">'
+        linktext += link.getAttribute('text') + '</a><br />\n'
+        feedlist+=linktext
+    return feedlist
+%>
+</%def>
 
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -22,15 +40,20 @@
 <div id="header">
 <h1>${self.titulo()}</h1>
 </div>
-<div id="Barra" style="text-align:center; font-size:small; margin-top=1em;">
+<div id="barra">
 ${self.barra()}
 </div>
 <div id="items">
 ${items}
 </div>
 <div id="feedstats">
-<h2 id="feedstatsheader">Feeds</h2>
-${self.grazr()}
+    <div id="grazr">
+    ${self.grazr()}
+    </div>
+    <h2 id="feedstatsheader">Blogs</h2>
+    <div id="feedlist">
+        ${self.readopml(self.opmlfile())}
+    </div>
 </div>
 <div id="footer">
 <p id="aboutrawdog">Generado por

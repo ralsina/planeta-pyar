@@ -25,6 +25,7 @@ a:visited, a:hover {
     text-align: center;
     border: 1px solid #ddd;
     color: #888;
+    margin-bottom: 1em;
 }
 
 #footer {
@@ -53,6 +54,7 @@ h3 {
 .item {
     border-bottom: 1px dotted #ccc;
     padding: 1em;
+    overflow: auto;
 }
 
 .itemheader {
@@ -79,6 +81,14 @@ h3 {
     float: right;
     width: 310px;
     height: 100%;
+    text-align: right;
+    margin-top: 1em;
+}
+
+#barra {
+    padding-top:1em;
+    text-align:center; 
+    font-size:small; 
 }
 
 #feeds {

@@ -1,5 +1,4 @@
 <%inherit file="template-base"/>
-
 <%def name="titulo()">
 Planeta Python Argentina
 </%def>
