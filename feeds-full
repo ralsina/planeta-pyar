@@ -11,9 +11,9 @@ feed 20m http://www.ceportela.com.ar/?feed=rss2
     define_name C&#233;sar Portela
     
 # Facundo Batista
-feed 20m http://feeds2.feedburner.com/com/wEER
+feed 20m http://www.taniquetil.com.ar/plog/rss/atom/1
     define_name Facundo Batista
-    
+
 # Gabriel Patiño
 feed 20m http://gepatino.blogspot.com/feeds/posts/default
     define_name Gabriel Pati&#241;o
@@ -42,9 +42,9 @@ feed 20m http://feeds.feedburner.com/Humitos
 feed 20m http://marcelosoft.blogspot.com/feeds/posts/default/-/python
     define_name Marcelo Fern&#225;ndez
     
-# Chaghi
+# Mariano Draghi (Chaghi)
 feed 20m http://chaghi.com.ar/blog/rss.php?blogId=1&profile=atom
-    define_name (cHagHi)
+    define_name Mariano Draghi (cHagHi)
     
 # Marcos Dione
 feed 20m http://grulicueva.homelinux.net/~mdione/glob/index.atom
