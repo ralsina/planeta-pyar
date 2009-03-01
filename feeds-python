@@ -51,7 +51,7 @@ feed 20m http://grulicueva.homelinux.net/~mdione/glob/tags/python/index.atom
 feed 20m http://pyar-olpc.blogspot.com/feeds/posts/default
 
 # Roberto Alsina
-feed 20m http://lateral.netmanagers.com.ar/categories/python.xml
+feed 20m http://feeds2.feedburner.com/PostsInLateralOpinionAboutPython
     define_name Roberto Alsina
     
 # Roberto Allende
