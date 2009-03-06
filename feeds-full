@@ -58,7 +58,7 @@ feed 20m http://nicocesar.com/?q=node/feed&PHPSESSID=2f8783159a1e8ca7e96bfcda9db
 feed 20m http://pyar-olpc.blogspot.com/feeds/posts/default
 
 # Roberto Alsina
-feed 20m http://feeds2.feedburner.com/LateralOpinion
+feed 20m http://feeds2.feedburner.com/LateralOpinionEsp
     define_name Roberto Alsina
     
 # Roberto Allende

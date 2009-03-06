@@ -124,4 +124,7 @@ img {
 
 pre {
     overflow: auto;
+    /* white-space: pre-wrap; /* This is for IE and other browsers that just have to be different */
+    /* white-space: -moz-pre-wrap; /* This is for FireFox and Mozilla Browsers */
+    /* white-space: o-pre-wrap; /* This is for Opera */
 }
