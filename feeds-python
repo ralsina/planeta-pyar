@@ -73,3 +73,8 @@ feed 20m http://rmorales.com.ar/blog/category/python/feed/
 # Nicolas Miyasato
 feed 20m http://mypythonnotes.wordpress.com/feed/ 
     define_name Nicol&#225;s Miyasato
+
+# Mauro Lizaur
+feed 20m http://los.talibanes-del.sl/~mauro/lusers/tags/python/index.rss
+   define_name Mauro Lizaur
+
