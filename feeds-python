@@ -79,5 +79,5 @@ feed 20m http://los.talibanes-del.sl/~mauro/lusers/tags/python/index.rss
    define_name Mauro Lizaur
 
 # Karucha
-fed 20m http://www.karuchin.com.ar/wordpress/?feed=rss2&cat=6
+feed 20m http://www.karuchin.com.ar/wordpress/?feed=rss2&cat=6
    define_name H&#233;ctor S&#225;nchez (Karucha)
