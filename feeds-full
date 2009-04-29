@@ -104,3 +104,7 @@ feed 20m http://walter.alini.com.ar/blog/feed
 # Manuel Muradás
 feed 20m http://blog.dieresys.com.ar/feed/
    define_name Manuel Murad&#225;s
+
+# Mario Zorz
+feed 20m http://prosciutto.boutiquestartups.com/rss.php?blogId=1&profile=atom&plogsession=8976fd66f4ef2441b65ee08074475fac
+   define_name Mario Zorz
