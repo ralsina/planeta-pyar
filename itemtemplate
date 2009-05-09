@@ -1,4 +1,4 @@
-<div class="item feed-${feed_hash} feed-{feed_id}" id="item-${hash}">
+<div class="item">
 <p class="itemheader">
 <span class="itemtitle">
 %if name:
