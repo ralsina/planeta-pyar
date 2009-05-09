@@ -79,7 +79,6 @@ try {
 var pageTracker = _gat._getTracker("UA-1639287-13");
 pageTracker._trackPageview();
 } catch(err) {}</script>
-</head>
 </body>
 </html>
 
