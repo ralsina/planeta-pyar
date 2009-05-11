@@ -86,3 +86,7 @@ feed 20m http://www.karuchin.com.ar/wordpress/?feed=rss2&cat=6
 feed 20m http://blog.dieresys.com.ar/tag/python/feed/
    define_name Manuel Murad&#225;s
 
+# Santiago peres�n (Yaco)
+feed 20m http://blog.yaco.net/feed?tag=oveja-electrica
+    define_name Santiago peres&#243;n (Yaco)
+
