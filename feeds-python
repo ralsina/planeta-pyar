@@ -36,7 +36,8 @@ feed 20m http://humitos.wordpress.com/category/python/feed/
     define_name Humitos
 
 # Marcelo Fernandez
-# No tiene RSS solo python
+feed 20m http://feeds2.feedburner.com/ElBlogDeMarcelo_python
+    define_name Marcelo Fern&#225;ndez
 
 # Mariano Draghi (Chaghi)
 feed 20m http://www.chaghi.com.ar/blog/rss/atom/1/8
