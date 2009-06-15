@@ -112,3 +112,11 @@ feed 20m http://prosciutto.boutiquestartups.com/rss.php?blogId=1&profile=atom&pl
 # Santiago peres√n (Yaco)
 feed 20m http://blog.yaco.net/feed/
     define_name Santiago peres&#243;n (Yaco)
+
+# Diego Sarmentero
+feed 20m http://utopia555.blogspot.com/feeds/posts/default
+    define_name Diego Sarmentero
+
+# Angel Freire
+feed 20m http://feeds2.feedburner.com/DiarioDeUnProgramador
+    define_name &#193;ngel Freire
