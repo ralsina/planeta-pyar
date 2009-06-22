@@ -91,3 +91,6 @@ feed 20m http://blog.dieresys.com.ar/tag/python/feed/
 feed 20m http://blog.yaco.net/feed?tag=oveja-electrica
     define_name Santiago peres&#243;n (Yaco)
 
+# Santiago Bruno
+feed 20m http://cervezaconlupines.blogspot.com/feeds/posts/default/-/python?alt=rss
+    define_name Santiago Bruno

@@ -127,3 +127,7 @@ feed 20m http://scialvarez.blogspot.com/feeds/posts/default
 feed 20m http://www.proyectociencia.org/blog/?feed=atom
     define_name Alejandro Alvarez
 
+# Santiago Bruno
+feed 20m http://cervezaconlupines.blogspot.com/feeds/posts/default/?alt=rss
+    define_name Santiago Bruno
+
