@@ -95,3 +95,7 @@ feed 20m http://blog.yaco.net/feed?tag=oveja-electrica
 # Santiago Bruno
 feed 20m http://cervezaconlupines.blogspot.com/feeds/posts/default/-/python?alt=rss
     define_name Santiago Bruno
+
+# Paul M. Dorr
+feed 20m http://desarrollandoideas.com.ar/category/python/feed/
+    define_name Paul M. Dorr

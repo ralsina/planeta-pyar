@@ -131,3 +131,6 @@ feed 20m http://www.proyectociencia.org/blog/?feed=atom
 feed 20m http://cervezaconlupines.blogspot.com/feeds/posts/default/?alt=rss
     define_name Santiago Bruno
 
+# Paul M. Dorr
+feed 20m http://desarrollandoideas.com.ar/?feed=rss2
+    define_name Paul M. Dorr
