@@ -139,3 +139,7 @@ feed 20m http://desarrollandoideas.com.ar/?feed=rss2
 # Patricio Molina
 feed 20m http://www.patriciomolina.com/feed/
     define_name Patricio Molina
+
+# San Cayetano
+feed 20m http://sccp2009.wordpress.com/feed/
+    define_name San Cayetano

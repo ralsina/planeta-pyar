@@ -99,3 +99,8 @@ feed 20m http://cervezaconlupines.blogspot.com/feeds/posts/default/-/python?alt=
 # Paul M. Dorr
 feed 20m http://desarrollandoideas.com.ar/category/python/feed/
     define_name Paul M. Dorr
+
+# San Cayetano
+feed 20m http://sccp2009.wordpress.com/feed/
+    define_name San Cayetano
+
