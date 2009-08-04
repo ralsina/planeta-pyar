@@ -134,3 +134,8 @@ feed 20m http://cervezaconlupines.blogspot.com/feeds/posts/default/?alt=rss
 # Paul M. Dorr
 feed 20m http://desarrollandoideas.com.ar/?feed=rss2
     define_name Paul M. Dorr
+
+
+# Patricio Molina
+feed 20m http://www.patriciomolina.com/feed/
+    define_name Patricio Molina
