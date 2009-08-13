@@ -90,7 +90,7 @@ feed 20m http://blog.dieresys.com.ar/tag/python/feed/
 
 # Santiago peresï¿½n (Yaco)
 feed 20m http://blog.yaco.net/feed?tag=oveja-electrica
-    define_name Santiago peres&#243;n (Yaco)
+    define_name Santiago Peres&#243;n (Yaco)
 
 # Santiago Bruno
 feed 20m http://cervezaconlupines.blogspot.com/feeds/posts/default/-/python?alt=rss
@@ -104,3 +104,6 @@ feed 20m http://desarrollandoideas.com.ar/category/python/feed/
 feed 20m http://sccp2009.wordpress.com/feed/
     define_name San Cayetano
 
+# Santiago Suarez Ordo±ez
+feed 20m http://www.santiycr.com.ar/djangosite/blog/feeds/tags/python
+    define_name Santiago Suarez Ordo&#209;ez 
