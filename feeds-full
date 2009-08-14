@@ -145,5 +145,7 @@ feed 20m http://sccp2009.wordpress.com/feed/
     define_name San Cayetano
 
 # Gonzalo Sainz Trapaga
-feed 20m http://blog.gomox.com.ar/search/label/Python
-    define_name Gonzalo Sainz Tra&#225;paga
+feed 20m http://blog.gomox.com.ar/feeds/posts/default/
+    define_name Gonzalo Sainz Tr&#225;paga
+
+
