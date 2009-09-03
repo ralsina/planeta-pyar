@@ -112,3 +112,6 @@ feed 20m http://www.santiycr.com.ar/djangosite/blog/feeds/tags/python
 feed 20m http://blog.gomox.com.ar/feeds/posts/default/-/Python
     define_name Gonzalo Sainz Tr&#225;paga
 
+# Joaquin Sorianello
+feed 20m http://feeds.feedburner.com/joaclandia_Python
+    define_name Joaquin Sorianello
