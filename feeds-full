@@ -152,3 +152,6 @@ feed 20m http://blog.gomox.com.ar/feeds/posts/default/
 feed 20m http://feeds.feedburner.com/joaclandia
     define_name Joaquin Sorianello
 
+# Fabian Gallina
+feed 20m http://www.from-the-cloud.com/blog/feeds/ultimos_posts/
+    define_name Fabi&#225;n Gallina

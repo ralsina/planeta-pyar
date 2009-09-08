@@ -115,3 +115,8 @@ feed 20m http://blog.gomox.com.ar/feeds/posts/default/-/Python
 # Joaquin Sorianello
 feed 20m http://feeds.feedburner.com/joaclandia_Python
     define_name Joaquin Sorianello
+
+# Fabian Gallina
+feed 20m http://from-the-cloud.com/blog/category/python/
+    define_name Fabi&#225;n Gallina
+
