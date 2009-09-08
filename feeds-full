@@ -155,3 +155,7 @@ feed 20m http://feeds.feedburner.com/joaclandia
 # Fabian Gallina
 feed 20m http://www.from-the-cloud.com/blog/feeds/ultimos_posts/
     define_name Fabi&#225;n Gallina
+
+# Margarita Manterola
+feed 20m http://blogs.lug.fi.uba.ar/marga/?tempskin=_rss2&cat=31
+    define_name Margarita Manterola
