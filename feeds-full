@@ -159,3 +159,7 @@ feed 20m http://www.from-the-cloud.com/blog/feeds/ultimos_posts/
 # Margarita Manterola
 feed 20m http://blogs.lug.fi.uba.ar/marga/?tempskin=_rss2&cat=31
     define_name Margarita Manterola
+
+# Jos√©C. Mass√n
+feed 20m http://jose.rebeldes.org.ar/feed/
+    define_name Jos&#233; C. Mass&#243;n
