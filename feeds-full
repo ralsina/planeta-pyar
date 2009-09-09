@@ -168,3 +168,6 @@ feed 20m http://jose.rebeldes.org.ar/feed/
 feed 20m http://nqnwebs.com/?page=backend&id_mot=7
     define_name Mart&#237;n Gait&#225;n
 
+# Gustavo Carmona
+feed 20m http://awtt.wordpress.com/feed/
+    define_name Gustavo Carmona
