@@ -175,3 +175,7 @@ feed 20m http://awtt.wordpress.com/feed/
 # Francisco Gabriel Malbrán
 feed 20m http://yunoparatodos.blogspot.com/feeds/posts/default
     define_name Francisco Malbr&#225;n
+
+# Ezequiel Gutesman
+feed 20m http://lapilitadegutes.blogspot.com/feeds/posts/default
+    define_name Ezequiel Gutesman
