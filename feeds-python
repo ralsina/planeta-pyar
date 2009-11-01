@@ -76,10 +76,6 @@ feed 20m http://rmorales.com.ar/blog/category/python/feed/
 feed 20m http://mypythonnotes.wordpress.com/feed/ 
     define_name Nicol&#225;s Miyasato
 
-# Mauro Lizaur
-#feed 20m http://los.talibanes-del.sl/~mauro/lusers/tags/python/index.rss
-#   define_name Mauro Lizaur
-
 # Karucha
 feed 20m http://www.karuchin.com.ar/wordpress/?feed=rss2&cat=6
    define_name H&#233;ctor S&#225;nchez (Karucha)
@@ -123,3 +119,7 @@ feed 20m http://from-the-cloud.com/blog/category/python/
 # Margarita Manterola
 feed 20m http://blogs.lug.fi.uba.ar/marga/?tempskin=_rss2&cat=36
     define_name Margarita Manterola
+
+# Mauro Lizaur
+feed 20m http://lavaramano.livejournal.com/data/rss?tag=python
+    define_name Mauro Lizaur

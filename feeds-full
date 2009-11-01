@@ -89,10 +89,6 @@ feed 20m http://carapa.com.ar/blog/?feed=atom
 feed 20m http://www.etxaniz.com.ar/blog/index.php?blog=2&tempskin=_atom
     define_name Nicol&#225;s Ech&#225;niz 
 
-# Mauro Lizaur
-#feed 20m http://los.talibanes-del.sl/~mauro/lusers/blog/index.rss
-#   define_name Mauro Lizaur
-
 # Karucha
 feed 20m http://www.karuchin.com.ar/wordpress/?feed=rss2
    define_name H&#233;ctor S&#225;nchez (Karucha)
@@ -179,3 +175,7 @@ feed 20m http://yunoparatodos.blogspot.com/feeds/posts/default
 # Ezequiel Gutesman
 feed 20m http://lapilitadegutes.blogspot.com/feeds/posts/default
     define_name Ezequiel Gutesman
+
+# Mauro Lizaur
+feed 20m http://lavaramano.livejournal.com/data/rss
+    define_name Mauro Lizaur
