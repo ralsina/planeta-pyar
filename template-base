@@ -51,6 +51,9 @@ ${self.barra()}
 ${items}
 </div>
 <div id="feedstats">
+    <div id="chivo">
+    <p>Administraci&oacute;n y hosting cortes&iacute;a de <a href="http://netmanagers.com.ar">Net Managers SRL</a></p>
+    </div>
     <div id="grazr">
     ${self.grazr()}
     </div>
@@ -65,7 +68,6 @@ ${items}
 version ${version}
 by <a href="mailto:ats@offog.org">Adam Sampson</a>.</p>
 <p>Configuraci&oacute;n y scripts en <a href="http://github.com/ralsina/planeta-pyar/tree/master">GitHub</a></p>
-<p>Administraci&oacute;n y hosting cortes&iacute;a de <a href="http://netmanagers.com.ar">Net Managers SRL</a></p>
 <p>
 ${self.validrss()}
 </p>
