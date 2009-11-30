@@ -1,130 +1,198 @@
-/* Alternate stylesheet for rawdog. But you can still customise it as you like.
- * The .xmlbutton was stolen from the default stylesheet.
- * Samuel Hym <Samuel.Hym@gmail.com> */
-
 body {
-    font-family: Georgia,Serif;
-    margin: 10px auto auto auto;
-    width: 780px;
+background:white;
+color:#444444;
+font-family:trebuchet ms,luxi sans,sans-serif;
+margin:10px auto auto;
+padding:0;
+width:800px;
 }
 
 a {
-    text-decoration: none;
+text-decoration:none;
+color: #0044B3;
 }
 
-a:link {
-    color: #08b;
-}
+a:hover {
+color: green;
+text-decoration:underline;
 
-a:visited, a:hover {
-    color: #a03;
 }
 
 #header {
-    text-transform: uppercase;
-    text-align: center;
-    border: 1px solid #ddd;
-    color: #888;
-    margin-bottom: 10px;
+margin:auto;
+position:relative;
+width:800px;
 }
 
-#footer {
-    clear: both;
-}
-h2, h3 {
-    text-transform: uppercase;
-    font-size: 90%;
-    color: #888;
-}
 
-h2 {
-    margin-top: 3em;
+#header h1 {
+color:#444444;
+font-size:3.75em;
+letter-spacing:-1px;
+text-align:center;
+text-decoration:none;
+margin: 0 0;
+padding: 0 0;
+line-height: 1.5em;
 }
-
-h3 {
-    margin-top: 2em;
-}
-
-img {
-    border: none;
-}
-
-#items {
-    margin: 10px;
-    width: 500px;
-    float: left;
-}
-
-.item {
-    border-bottom: 1px dotted #ccc;
-    padding: 1em;
-}
-
-.itemheader {
-    font-size: 120%;
-    text-align: left;
-    color: #a03;
-}
-
-.itemheader a, .itemheader a:visited {
-    text-decoration: none;
-    color: #a03;
-}
-
-.itemheader a:hover {
-    color: #08b;
-}
-
-.itemfrom {
-    font-size: 70%;
-    text-align: right;
-}
-
-#feedstats {
-    float: right;
-    width: 230px;
-    height: 100%;
-    text-align: right;
-    margin-top: 10px;
+#header h1 small { 
+font-size: .4em;
+margin: 0 0 0 555px;
+text-align: left;
+font-weight: 400
 }
 
 #barra {
-    text-align:center; 
-    font-size:small; 
+background:#81BBF2;
+color:#FFF;
+font-size:.89em;
+height:25px;
+line-height:1.8em;
+padding:0 6px;
+text-align:right;
+width:800px;
+font-weight: 700;
+}
+
+#barra a {
+color:#FFF;
+text-decoration:none;
+}
+
+.day h2,.time h3 {
+background:#81BBF2 none repeat scroll 0 0;
+color:#FFF;
+font-size:.89em;
+font-weight:700;
+height:25px;
+line-height:1.8em;
+margin:25px 0 0;
+padding:0 6px;
+text-align:right;
+width:500px;
+}
+
+.time h3 {
+background-color:#F0F8FD;
+color:#444444;
+margin:25px 0 -15px;
+padding-left: 4px;
+text-align:left;
+width:50px;
+}
+
+img {
+border:none;
+max-width: 95%;
+}
+
+#items {
+float:left;
+width:500px;
+}
+
+.item {
+border-bottom:1px dotted #1D1801;
+padding:.2em;
+}
+
+.itemtitle {
+color:#444444;
+font-size:1em;
+font-weight:700;
+text-decoration:none;
+}
+
+.itemtitle a {
+font-weight:400;
+text-decoration:none;
+color: #0044B3;
+}
+
+.itemtitle a:hover{
+color: green;
+text-decoration:underline;
+}
+
+.itemdescription {
+font-size:.81em;
+line-height:1.7em;
+}
+
+#feedstats {
+float:right;
+height:100%;
+margin-top:10px;
+text-align:right;
+width:230px;
 }
 
 #feeds {
-    margin: 10px 0;
-    border: 1px solid gray;
-    border-spacing: 0;
-}
-
-#feedsheader TH {
-    background-color: #eee;
-    border-bottom: 1px solid gray;
-    padding: 5px;
-    margin: 0;
-}
-
-.feedsrow TD {
-    padding: 5px 10px;
-    margin: 0;
+border:1px solid gray;
+border-spacing:0;
+margin:10px 0;
 }
 
 .xmlbutton {
-    border: 1px solid;
-    border-color: #FC9 #630 #330 #F96;
-    padding: 0 3px;
-    font: bold 10px sans-serif;
-    color: #FFF;
-    background: #F60;
-    text-decoration: none;
-    margin: 0;
+background:#F60;
+border:1px solid;
+border-color:#FC9 #630 #330 #F96;
+color:#FFF;
+font:bold 10px sans-serif;
+margin:0;
+padding:0 3px;
+text-decoration:none;
+}
+
+#chivo {
+border-bottom:1px dotted #444444;
+margin:0 0 30px;
+}
+
+#chivo p a {
+font-weight:700;
+}
+
+#grazr a {
+text-decoration:none;
+}
+
+#feedstatsheader {
+margin:60px 0 0;
+width:230px;
+}
+
+#feedlist {
+float:right;
+width:200px;
+}
+
+#feedlist a {
+color:#444444;
+font-family:Verdana,Geneva,Tahoma,sans-serif;
+font-size:.69em;
+margin:0 0 3px 3px;
+text-align:right;
+text-decoration:none;
+}
+
+#feedlist a:hover {
+background-color:#F0F8FD;
+color:#444444;
 }
 
 pre {
-    overflow: auto;
-    /* white-space: pre-wrap; /* This is for IE and other browsers that just have to be different */
-    /* white-space: -moz-pre-wrap; /* This is for FireFox and Mozilla Browsers */
-    /* white-space: o-pre-wrap; /* This is for Opera */
+overflow:auto;
+}
+
+#footer {
+clear:both;
+}
+
+#footer p {
+font-size:.69em;
+}
+
+#footer #aboutrawdog {
+padding-top:40px;
 }
