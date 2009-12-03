@@ -53,6 +53,7 @@ ${items}
 <div id="feedstats">
     <div id="chivo">
     <p>Administraci&oacute;n y hosting cortes&iacute;a de <a href="http://netmanagers.com.ar">Net Managers SRL</a></p>
+    <p>Tema por Andr&eacute;s Antista</p>
     </div>
     <div id="grazr">
     ${self.grazr()}

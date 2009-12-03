@@ -51,7 +51,7 @@ feed 20m http://grulicueva.homelinux.net/~mdione/glob/index.atom
     define_name Marcos Dione
     
 # Nico Cesar
-feed 20m http://nicocesar.com/?q=node/feed&PHPSESSID=2f8783159a1e8ca7e96bfcda9dbbe8bf
+feed 20m http://blog.nicocesar.com/?q=rss.xml
     define_name Nicol&#225;s C&#233;sar
     
 # PyAr OLPC
