@@ -179,3 +179,8 @@ feed 20m http://lapilitadegutes.blogspot.com/feeds/posts/default
 # Mauro Lizaur
 feed 20m http://lavaramano.livejournal.com/data/rss
     define_name Mauro Lizaur
+
+# Evita!
+feed 20m http://evitalinuxera.blogspot.com/feeds/posts/default
+    define_name Evita
+

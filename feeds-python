@@ -123,3 +123,8 @@ feed 20m http://blogs.lug.fi.uba.ar/marga/?tempskin=_rss2&cat=36
 # Mauro Lizaur
 feed 20m http://lavaramano.livejournal.com/data/rss?tag=python
     define_name Mauro Lizaur
+
+# Evita!
+feed 20m http://evitalinuxera.blogspot.com/search/label/python
+    define_name Evita
+
