@@ -128,3 +128,6 @@ feed 20m http://lavaramano.livejournal.com/data/rss?tag=python
 feed 20m http://evitalinuxera.blogspot.com/search/label/python
     define_name Evita
 
+# Alejandro Santos
+feed 20m http://alejolp.blogspot.com/feeds/posts/default/-/python
+    define_name Alejandro Santos
