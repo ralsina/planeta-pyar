@@ -184,3 +184,6 @@ feed 20m http://lavaramano.livejournal.com/data/rss
 feed 20m http://evitalinuxera.blogspot.com/feeds/posts/default
     define_name Evita
 
+# Alejandro Santos
+feed 20m http://feeds.feedburner.com/BlogDeAlejolp
+    define_name Alejandro Santos
