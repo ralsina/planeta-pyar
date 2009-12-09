@@ -131,3 +131,7 @@ feed 20m http://evitalinuxera.blogspot.com/search/label/python
 # Alejandro Santos
 feed 20m http://alejolp.blogspot.com/feeds/posts/default/-/python
     define_name Alejandro Santos
+
+# Juan Pedro Fisanotti
+feed 20m http://fisadev.blogspot.com/feeds/posts/default/-/python
+    define_name Juan Pedro Fisanotti
