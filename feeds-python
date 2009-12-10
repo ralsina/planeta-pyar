@@ -140,3 +140,6 @@ feed 20m http://fisadev.blogspot.com/feeds/posts/default/-/python
 feed 20m http://nqnwebs.com/?page=backend&id_mot=7
     define_name Mart&#237;n Gait&#225;n
 
+# Esteban Ordano
+feed 20m http://estebanordano.com.ar/category/python/feed/
+    define_name Esteban Ordano

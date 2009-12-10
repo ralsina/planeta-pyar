@@ -191,3 +191,7 @@ feed 20m http://feeds.feedburner.com/BlogDeAlejolp
 # Juan Pedro Fisanotti
 feed 20m http://fisadev.blogspot.com/feeds/posts/default
     define_name Juan Pedro Fisanotti
+
+# Esteban Ordano
+feed 20m http://estebanordano.com.ar/feed/
+    define_name Esteban Ordano
