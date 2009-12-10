@@ -135,3 +135,8 @@ feed 20m http://alejolp.blogspot.com/feeds/posts/default/-/python
 # Juan Pedro Fisanotti
 feed 20m http://fisadev.blogspot.com/feeds/posts/default/-/python
     define_name Juan Pedro Fisanotti
+
+# Martin Gaitan
+feed 20m http://nqnwebs.com/?page=backend&id_mot=7
+    define_name Mart&#237;n Gait&#225;n
+
