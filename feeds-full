@@ -107,7 +107,7 @@ feed 20m http://prosciutto.boutiquestartups.com/rss.php?blogId=1&profile=atom&pl
 
 # Santiago peres√n (Yaco)
 feed 20m http://blog.yaco.net/feed/
-    define_name Santiago peres&#243;n (Yaco)
+    define_name Santiago Peres&#243;n (Yaco)
 
 # Diego Sarmentero
 feed 20m http://utopia555.blogspot.com/feeds/posts/default
@@ -195,3 +195,7 @@ feed 20m http://fisadev.blogspot.com/feeds/posts/default
 # Esteban Ordano
 feed 20m http://estebanordano.com.ar/feed/
     define_name Esteban Ordano
+
+# Matias E. Gieco
+feed 20m http://my.opera.com/matigro/xml/atom/blog/
+    define_name Mat&#237;as E. Gieco
