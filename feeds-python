@@ -152,3 +152,6 @@ feed 20m http://my.opera.com/matigro/xml/atom/blog/index.dml/tag/python
 feed 20m http://stealthissoftware.blogspot.com/feeds/posts/default/-/python
     define_name Mart&#237;n Cerdeira
 
+# Carlos Joel Delgado Pizarro
+feed 20m http://pycj.wordpress.com/feed/
+    define_name Carlos Joel Delgado Pizarro
