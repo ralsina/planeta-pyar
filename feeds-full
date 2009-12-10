@@ -199,3 +199,8 @@ feed 20m http://estebanordano.com.ar/feed/
 # Matias E. Gieco
 feed 20m http://my.opera.com/matigro/xml/atom/blog/
     define_name Mat&#237;as E. Gieco
+
+# Martín Cerdeira
+feed 20m http://stealthissoftware.blogspot.com/feeds/posts/default
+    define_name Mart&#237;n Cerdeira
+
