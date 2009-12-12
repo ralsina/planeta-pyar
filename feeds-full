@@ -207,3 +207,7 @@ feed 20m http://stealthissoftware.blogspot.com/feeds/posts/default
 # Carlos Joel Delgado Pizarro
 feed 20m http://pycj.wordpress.com/feed/
     define_name Carlos Joel Delgado Pizarro
+
+# Pablo Benjamín Arroyo
+feed 20m http://feeds2.feedburner.com/linux-noa2
+    define_name Pablo Benjam&#237;n Arroyo
