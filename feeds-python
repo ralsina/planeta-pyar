@@ -159,3 +159,7 @@ feed 20m http://pycj.wordpress.com/feed/
 # Pablo Benjamín Arroyo
 feed 20m http://www.linux-noa.com.ar/feeds/posts/default/-/python
     define_name Pablo Benjam&#237;n Arroyo
+
+# Alberto Paparelli
+feed 20m http://blog.paparelli.com.ar/?feed=rss2&cat=4
+    define_name Alberto Paparelli
