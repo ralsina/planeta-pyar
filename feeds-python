@@ -163,3 +163,7 @@ feed 20m http://www.linux-noa.com.ar/feeds/posts/default/-/python
 # Alberto Paparelli
 feed 20m http://blog.paparelli.com.ar/?feed=rss2&cat=4
     define_name Alberto Paparelli
+
+#  Pablo Alejandro Costesich
+feed 20m http://pcostesi.blogspot.com/feeds/posts/default/-/Python
+    define_name Pablo Alejandro Costesich
