@@ -42,7 +42,7 @@
 </head>
 <body id="rawdog">
 <div id="header">
-<h1>${self.titulo()}</h1>
+<img src="banner-planeta.png" alt="${self.titulo()}">
 </div>
 <div id="barra">
 ${self.barra()}
@@ -54,6 +54,7 @@ ${items}
     <div id="chivo">
     <p>Administraci&oacute;n y hosting cortes&iacute;a de <a href="http://netmanagers.com.ar">Net Managers SRL</a></p>
     <p>Tema por Andr&eacute;s Antista</p>
+    <p>Banner por Joaqu&iacute;n Sorianello</p>
     </div>
     <div id="grazr">
     ${self.grazr()}

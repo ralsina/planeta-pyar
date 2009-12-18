@@ -7,7 +7,7 @@ cd ~/.rawdog
 python merge-config.py
 
 # Bajar los feeds
-rawdog -u
+#rawdog -u
 
 # Regenerar planeta full
 LANG=es_ES rawdog -c config-full -w
