@@ -167,3 +167,7 @@ feed 20m http://blog.paparelli.com.ar/?feed=rss2&cat=4
 #  Pablo Alejandro Costesich
 feed 20m http://pcostesi.blogspot.com/feeds/posts/default/-/Python
     define_name Pablo Alejandro Costesich
+
+# Marcos Vanetta
+feed 20m http://blog.malev.com.ar/feed/
+    Marcos Vanetta
