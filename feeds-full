@@ -222,4 +222,8 @@ feed 20m http://pcostesi.blogspot.com/feeds/posts/default
 
 # Marcos Vanetta
 feed 20m http://blog.malev.com.ar/feed/
-    Marcos Vanetta
+    define_name Marcos Vanetta
+
+# Mariano Reingart
+feed 20m http://reingart.blogspot.com/feeds/posts/default
+    define_name Mariano Reingart
