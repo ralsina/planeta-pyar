@@ -145,8 +145,8 @@ feed 20m http://estebanordano.com.ar/category/python/feed/
     define_name Esteban Ordano
 
 # Matias E. Gieco
-feed 20m http://my.opera.com/matigro/xml/atom/blog/index.dml/tag/python
-    define_name Mat&#237;as E. Gieco
+#feed 20m http://my.opera.com/matigro/xml/atom/blog/index.dml/tag/python
+#    define_name Mat&#237;as E. Gieco
 
 # Martín Cerdeira
 feed 20m http://stealthissoftware.blogspot.com/feeds/posts/default/-/python
