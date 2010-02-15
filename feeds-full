@@ -1,5 +1,233 @@
+#############
+# Feeds full
+#############
+
+# Anthony Lenton
+feed 20m http://anthony.lenton.com.ar/feed/es/
+    define_name Anthony Lenton
+
+# Rivendel
+feed 20m http://www.ceportela.com.ar/?feed=rss2
+    define_name C&#233;sar Portela
+    
+# Facundo Batista
+feed 20m http://www.taniquetil.com.ar/plog/rss/atom/1
+    define_name Facundo Batista
+
+# Gabriel Patiño
+feed 20m http://gepatino.blogspot.com/feeds/posts/default
+    define_name Gabriel Pati&#241;o
+    
+# Guillermo Heizenreder
+feed 20m http://gheize.wordpress.com/feed/
+    define_name Guillermo Heizenreder
+    
+# John Lenton
+feed 20m http://john.lenton.com.ar/feed/
+    define_name John Lenton
+    
+# Juanjo Conti
+feed 20m http://www.juanjoconti.com.ar/feed/
+    define_name Juanjo Conti
+    
+# Leito Monk
+feed 20m http://audiolibre.com.ar/?feed=atom
+    define_name Leito Monk
+
+# Humitos
+feed 20m http://feeds.feedburner.com/Humitos
+    define_name Manuel Kaufmann (Humitos)
+    
+# Marcelo Fern&#225;ndez
+feed 20m http://feeds2.feedburner.com/ElBlogDeMarcelo
+    define_name Marcelo Fern&#225;ndez
+    
+# Mariano Draghi (Chaghi)
+feed 20m http://chaghi.com.ar/blog/rss.php?blogId=1&profile=atom
+    define_name Mariano Draghi (cHagHi)
+    
+# Marcos Dione
+feed 20m http://grulicueva.homelinux.net/~mdione/glob/index.atom
+    define_name Marcos Dione
+    
+# Nico Cesar
+feed 20m http://blog.nicocesar.com/?q=rss.xml
+    define_name Nicol&#225;s C&#233;sar
+    
+# PyAr OLPC
+feed 20m http://pyar-olpc.blogspot.com/feeds/posts/default
+
+# Roberto Alsina
+feed 20m http://feeds2.feedburner.com/LateralOpinionEsp
+    define_name Roberto Alsina
+    
+# Roberto Allende
+feed 20m http://robertoallende.com/blog/RSS
+    define_name Roberto Allende
+
+# Sebastian Bassi
+feed 20m http://www.bioinformatica.info/seba/atom.xml
+    define_name Sebastian Bassi
+    
+# Mariano Guerra
+feed 20m http://marianoguerra.blogspot.com/feeds/posts/default/
+    define_name Mariano Guerra
+    
+# Ramiro Morales
+feed 20m http://rmorales.com.ar/blog/feed/
+    define_name Ramiro Morales
+    
+# Nicolas Miyasato
+feed 20m http://nmiyasato.blogspot.com/feeds/posts/default
+    define_name Nicol&#225;s Miyasato
+    
+# Javier Castrillo
+feed 20m http://carapa.com.ar/blog/?feed=atom
+    define_name Javier Castrillo
+   
+# Nicolas Echaniz
+feed 20m http://www.etxaniz.com.ar/blog/index.php?blog=2&tempskin=_atom
+    define_name Nicol&#225;s Ech&#225;niz 
+
+# Karucha
+feed 20m http://www.karuchin.com.ar/wordpress/?feed=rss2
+   define_name H&#233;ctor S&#225;nchez (Karucha)
+   
+# Walter Alini
+feed 20m http://walter.alini.com.ar/blog/feed
+   define_name Walter Alini
+   
+# Manuel Muradás
+feed 20m http://blog.dieresys.com.ar/feed/
+   define_name Manuel Murad&#225;s
+
+# Mario Zorz
+feed 20m http://prosciutto.boutiquestartups.com/rss.php?blogId=1&profile=atom&plogsession=8976fd66f4ef2441b65ee08074475fac
+   define_name Mario Zorz
+
+# Santiago peres�n (Yaco)
+feed 20m http://blog.yaco.net/feed/
+    define_name Santiago Peres&#243;n (Yaco)
+
+# Diego Sarmentero
+feed 20m http://utopia555.blogspot.com/feeds/posts/default
+    define_name Diego Sarmentero
+
+# Angel Freire (cuerty)
+feed 20m http://feeds2.feedburner.com/DiarioDeUnProgramador
+    define_name Angel Freire (cuerty)
+
+# Alejandro Alvarez
+feed 20m http://scialvarez.blogspot.com/feeds/posts/default
+    define_name Alejandro Alvarez
+#feed 20m http://www.proyectociencia.org/blog/?feed=atom
+#    define_name Alejandro Alvarez
+
+# Santiago Bruno
+feed 20m http://cervezaconlupines.blogspot.com/feeds/posts/default/?alt=rss
+    define_name Santiago Bruno
+
+# Paul M. Dorr
+feed 20m http://desarrollandoideas.com.ar/?feed=rss2
+    define_name Paul M. Dorr
+
+
+# Patricio Molina
+feed 20m http://www.patriciomolina.com/feed/
+    define_name Patricio Molina
+
+# San Cayetano
+feed 20m http://sccp2009.wordpress.com/feed/
+    define_name San Cayetano
+
+# Gonzalo Sainz Trapaga
+feed 20m http://blog.gomox.com.ar/feeds/posts/default/
+    define_name Gonzalo Sainz Tr&#225;paga
+
+# Joaquin Sorianello
+feed 20m http://feeds.feedburner.com/joaclandia
+    define_name Joaquin Sorianello
+
+# Fabian Gallina
+feed 20m http://www.from-the-cloud.com/blog/feeds/ultimos_posts/
+    define_name Fabi&#225;n Gallina
+
+# Margarita Manterola
+feed 20m http://blogs.lug.fi.uba.ar/marga/?tempskin=_rss2&cat=31
+    define_name Margarita Manterola
+
+# Jos� C. Mass�n
+feed 20m http://jose.rebeldes.org.ar/feed/
+    define_name Jos&#233; C. Mass&#243;n
+
+# Martin Gaitan
+feed 20m http://nqnwebs.com/?page=backend
+    define_name Mart&#237;n Gait&#225;n
+
+# Gustavo Carmona
+feed 20m http://awtt.wordpress.com/feed/
+    define_name Gustavo Carmona
+
+# Francisco Gabriel Malbrán
+feed 20m http://yunoparatodos.blogspot.com/feeds/posts/default
+    define_name Francisco Malbr&#225;n
+
+# Ezequiel Gutesman
+feed 20m http://lapilitadegutes.blogspot.com/feeds/posts/default
+    define_name Ezequiel Gutesman
+
+# Mauro Lizaur
+feed 20m http://lavaramano.livejournal.com/data/rss
+    define_name Mauro Lizaur
+
+# Evita!
+feed 20m http://evitalinuxera.blogspot.com/feeds/posts/default
+    define_name Evita
+
+# Alejandro Santos
+feed 20m http://feeds.feedburner.com/BlogDeAlejolp
+    define_name Alejandro Santos
+
+# Juan Pedro Fisanotti
+feed 20m http://fisadev.blogspot.com/feeds/posts/default
+    define_name Juan Pedro Fisanotti
+
+# Esteban Ordano
+feed 20m http://estebanordano.com.ar/feed/
+    define_name Esteban Ordano
+
+# Matias E. Gieco
+feed 20m http://my.opera.com/matigro/xml/atom/blog/
+    define_name Mat&#237;as E. Gieco
+
+# Martín Cerdeira
+feed 20m http://stealthissoftware.blogspot.com/feeds/posts/default
+    define_name Mart&#237;n Cerdeira
+
+# Carlos Joel Delgado Pizarro
+feed 20m http://pycj.wordpress.com/feed/
+    define_name Carlos Joel Delgado Pizarro
+
+# Pablo Benjamín Arroyo
+feed 20m http://feeds2.feedburner.com/linux-noa2
+    define_name Pablo Benjam&#237;n Arroyo
+
+# Alberto Paparelli
+feed 20m http://blog.paparelli.com.ar/?feed=rss2
+    define_name Alberto Paparelli
+
+#  Pablo Alejandro Costesich
+feed 20m http://pcostesi.blogspot.com/feeds/posts/default
+    define_name Pablo Alejandro Costesich
+
+# Marcos Vanetta
+feed 20m http://blog.malev.com.ar/feed/
+    define_name Marcos Vanetta
+
+# Mariano Reingart
+feed 20m http://reingart.blogspot.com/feeds/posts/default
     define_name Mariano Reingart
 
-# Andres Gattinoni
+# Andrés Gattinoni
 feed 20m http://www.tail-f.com.ar/feed
-    define_name Andr&#233;s Gattinoni
+     define_name Andr&#233;s Gattinoni
