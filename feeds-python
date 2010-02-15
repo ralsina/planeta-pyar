@@ -175,3 +175,7 @@ feed 20m http://blog.malev.com.ar/feed/
 # Mariano Reingart
 feed 20m http://reingart.blogspot.com/feeds/posts/default/-/python
     define_name Mariano Reingart
+
+# Andres Gattinoni
+feed 20m http://www.tail-f.com.ar/tag/python/feed
+    define_name Andr&#233;s Gattinoni
