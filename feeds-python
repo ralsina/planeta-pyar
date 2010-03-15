@@ -10,7 +10,7 @@ feed 20m http://anthony.lenton.com.ar/?feed=rss2&cat=4&language=es
 # No tiene RSS solo python
 
 # Facundo Batista
-feed 20m http://www.taniquetil.com.ar/plog/rss/atom/1/5
+feed 20m http://www.taniquetil.com.ar/plog/rss/rss20/1/5
     define_name Facundo Batista
 
 # Gabriel Patiño

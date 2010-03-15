@@ -11,7 +11,7 @@ feed 20m http://www.ceportela.com.ar/?feed=rss2
     define_name C&#233;sar Portela
     
 # Facundo Batista
-feed 20m http://www.taniquetil.com.ar/plog/rss/atom/1
+feed 20m http://www.taniquetil.com.ar/plog/rss/rss20/1
     define_name Facundo Batista
 
 # Gabriel Patiño
