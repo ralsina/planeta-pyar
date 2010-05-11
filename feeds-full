@@ -231,3 +231,8 @@ feed 20m http://reingart.blogspot.com/feeds/posts/default
 # Andrés Gattinoni
 feed 20m http://www.tail-f.com.ar/feed
      define_name Andr&#233;s Gattinoni
+
+# Maximiliano Robaina
+feed 20m http://blog.frostbyte.com.ar/?feed=rss2
+    define_name Maximiliano Robaina
+
