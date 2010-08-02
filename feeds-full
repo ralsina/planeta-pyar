@@ -43,7 +43,7 @@ feed 20m http://feeds2.feedburner.com/ElBlogDeMarcelo
     define_name Marcelo Fern&#225;ndez
     
 # Mariano Draghi (Chaghi)
-feed 20m http://chaghi.com.ar/blog/rss.php?blogId=1&profile=atom
+feed 20m http://feeds2.feedburner.com/ElBlogDeChaghi
     define_name Mariano Draghi (cHagHi)
     
 # Marcos Dione
