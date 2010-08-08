@@ -9,15 +9,14 @@ Planeta Python Argentina
 </%def>
 
 <%def name="grazr()">
-<div style="height:400px;width:100%;">
-    <a href="http://grazr.com/read?view=s&file=http://planeta.python.org.ar/feeds.opml" >
-        <img alt="Grazr" src="http://static.grazr.com/images/grazrbadge.png" style="border:none">
-    </a>
-    <script defer="defer" type="text/javascript" src="http://static.grazr.com/gzloader.js?view=s&amp;file=http://planeta.python.org.ar/feeds.opml"></script>
+<div>
     <a href="http://planeta.python.org.ar/feeds.opml">OPML</a> - 
     <a href="http://planeta.python.org.ar/foafroll.xml">FOAF</a> - 
     <a href="http://planeta.python.org.ar/index.xml">RSS</a> -
     <a href="http://planeta.python.org.ar/log.html">Log</a>
+</div>
+<div>
+Seguinos en <a href="http://twitter.com/planetapyar">twitter</a> / <a href="http://identi.ca/planetapyar/all">identi.ca</a>
 </div>
 </%def>
 
