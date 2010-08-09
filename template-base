@@ -56,12 +56,12 @@ ${items}
     <p>Tema por Andr&eacute;s Antista</p>
     <p>Banner por Joaqu&iacute;n Sorianello</p>
     </div>
+    <div id="grazr">
+        ${self.grazr()}
+    </div>
     <h2 id="feedstatsheader">Blogs</h2>
     <div id="feedlist">
         ${self.readopml(self.opmlfile())}
-    </div>
-    <div id="grazr">
-        ${self.grazr()}
     </div>
 </div>
 <div id="footer">
