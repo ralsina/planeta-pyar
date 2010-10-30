@@ -239,3 +239,7 @@ feed 20m http://blog.frostbyte.com.ar/?feed=rss2
 # Python Entre Todos
 feed 20m http://pythonentretodos.blogspot.com/feeds/posts/default
     define_name Python Entre Todos
+
+# Juan Bautista Cabral
+feed 20m http://jbcabral.wordpress.com/feed/
+    define_name Juan Bautista Cabral
