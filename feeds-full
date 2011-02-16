@@ -245,5 +245,5 @@ feed 20m http://jbcabral.wordpress.com/feed/
     define_name Juan Bautista Cabral
 
 # Juan Rodriguez Monti
-feed 20m http://www.juanrodriguezmonti.com.ar/rss.php?blogId=1&amp;profile=atom
+feed 20m http://www.juanrodriguezmonti.com.ar/rss.php?blogId=1&profile=rss20
     define_name Juan Rodriguez Monti
