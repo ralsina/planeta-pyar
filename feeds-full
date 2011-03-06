@@ -247,3 +247,6 @@ feed 20m http://jbcabral.wordpress.com/feed/
 # Juan Rodriguez Monti
 feed 20m http://www.juanrodriguezmonti.com.ar/rss.php?blogId=1&profile=rss20
     define_name Juan Rodriguez Monti
+
+feed 20m http://twitter.com/statuses/user_timeline/260832874.rss
+    define_name PyDay Cordoba
