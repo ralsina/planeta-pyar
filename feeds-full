@@ -249,7 +249,7 @@ feed 20m http://www.juanrodriguezmonti.com.ar/rss.php?blogId=1&profile=rss20
     define_name Juan Rodriguez Monti
 
 feed 20m http://twitter.com/statuses/user_timeline/260832874.rss
-    define_name PyDay Cordoba
+    define_name PyDay Argentina
 
 feed 20m http://ralgozino.wordpress.com/feed/
     define_name Ramiro Algozino
