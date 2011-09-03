@@ -253,3 +253,6 @@ feed 20m http://twitter.com/statuses/user_timeline/260832874.rss
 
 feed 20m http://ralgozino.wordpress.com/feed/
     define_name Ramiro Algozino
+
+feed 20m http://pyconar.blogspot.com/feeds/posts/default?alt=rss
+    define_name Pycon Argentina
