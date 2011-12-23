@@ -256,3 +256,7 @@ feed 20m http://ralgozino.wordpress.com/feed/
 
 feed 20m http://pyconar.blogspot.com/feeds/posts/default?alt=rss
     define_name Pycon Argentina
+
+feed 20m http://ninjasandpythones.blogspot.com/feeds/posts/default
+    define_name Emiliano Dalla Verde Marcozzi
+
