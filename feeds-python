@@ -190,3 +190,6 @@ feed 20m http://twitter.com/statuses/user_timeline/260832874.rss
 feed 20m http://pyconar.blogspot.com/feeds/posts/default?alt=rss
     define_name Pycon Argentina
 
+feed 20m http://focojoaco.blogspot.com/feeds/posts/default/-/python
+    define_name Joaquin Tita
+

@@ -260,3 +260,5 @@ feed 20m http://pyconar.blogspot.com/feeds/posts/default?alt=rss
 feed 20m http://ninjasandpythones.blogspot.com/feeds/posts/default
     define_name Emiliano Dalla Verde Marcozzi
 
+feed 20m http://focojoaco.blogspot.com/feeds/posts/default
+    define_name Joaquin Tita
