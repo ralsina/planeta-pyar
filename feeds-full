@@ -221,7 +221,7 @@ feed 20m http://pcostesi.blogspot.com/feeds/posts/default
     define_name Pablo Alejandro Costesich
 
 # Marcos Vanetta
-feed 20m http://blog.malev.com.ar/feed/
+feed 20m http://feeds.feedburner.com/malev
     define_name Marcos Vanetta
 
 # Mariano Reingart
