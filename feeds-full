@@ -262,3 +262,6 @@ feed 20m http://ninjasandpythones.blogspot.com/feeds/posts/default
 
 feed 20m http://focojoaco.blogspot.com/feeds/posts/default
     define_name Joaquin Tita
+
+feed 20m http://gonzamartinez.blogspot.com/feeds/posts/default
+    define_name Gonzalo Martinez
