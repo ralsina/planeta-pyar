@@ -233,7 +233,7 @@ feed 20m http://www.tail-f.com.ar/feed
      define_name Andr&#233;s Gattinoni
 
 # Maximiliano Robaina
-feed 20m http://blog.frostbyte.com.ar/?feed=rss2
+feed 20m http://feeds.feedburner.com/maxirobaina
     define_name Maximiliano Robaina
 
 # Python Entre Todos
