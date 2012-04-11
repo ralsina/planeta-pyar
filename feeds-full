@@ -14,7 +14,7 @@ feed 20m http://www.ceportela.com.ar/?feed=rss2
 feed 20m http://www.taniquetil.com.ar/plog/rss/rss20/1
     define_name Facundo Batista
 
-# Gabriel Patiño
+# Gabriel Patino
 feed 20m http://gepatino.blogspot.com/feeds/posts/default
     define_name Gabriel Pati&#241;o
     
@@ -47,7 +47,7 @@ feed 20m http://feeds2.feedburner.com/ElBlogDeChaghi
     define_name Mariano Draghi (cHagHi)
     
 # Marcos Dione
-feed 20m http://grulicueva.homelinux.net/~mdione/glob/index.atom
+feed 20m http://www.grulic.org.ar/~mdione/glob/index.atom
     define_name Marcos Dione
     
 # Nico Cesar
