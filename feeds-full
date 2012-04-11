@@ -213,8 +213,8 @@ feed 20m http://feeds2.feedburner.com/linux-noa2
     define_name Pablo Benjam&#237;n Arroyo
 
 # Alberto Paparelli
-feed 20m http://blog.paparelli.com.ar/?feed=rss2
-    define_name Alberto Paparelli
+#feed 20m http://blog.paparelli.com.ar/?feed=rss2
+#    define_name Alberto Paparelli
 
 #  Pablo Alejandro Costesich
 feed 20m http://pcostesi.blogspot.com/feeds/posts/default
