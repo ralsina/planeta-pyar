@@ -84,7 +84,7 @@ feed 20m http://www.karuchin.com.ar/wordpress/?feed=rss2&cat=6
 feed 20m http://blog.dieresys.com.ar/tag/python/feed/
    define_name Manuel Murad&#225;s
 
-# Santiago peresï¿½n (Yaco)
+# Santiago pereson (Yaco)
 feed 20m http://blog.yaco.net/feed?tag=oveja-electrica
     define_name Santiago Peres&#243;n (Yaco)
 
@@ -100,9 +100,9 @@ feed 20m http://desarrollandoideas.com.ar/category/python/feed/
 feed 20m http://sccp2009.wordpress.com/feed/
     define_name San Cayetano
 
-# Santiago Suarez Ordo±ez
-#feed 20m http://www.santiycr.com.ar/djangosite/blog/feeds/tags/python/
-#    define_name Santiago Suarez Ordo&#241;ez 
+# Santiago Suarez Ordonez
+feed 20m http://www.santiycr.com.ar/djangosite/blog/feeds/tags/python/
+    define_name Santiago Suarez Ordo&#241;ez 
 
 # Gonzalo Sainz Trapaga
 feed 20m http://blog.gomox.com.ar/feeds/posts/default/-/Python

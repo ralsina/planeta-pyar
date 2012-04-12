@@ -105,7 +105,7 @@ feed 20m http://blog.dieresys.com.ar/feed/
 feed 20m http://prosciutto.boutiquestartups.com/rss.php?blogId=1&profile=atom&plogsession=8976fd66f4ef2441b65ee08074475fac
    define_name Mario Zorz
 
-# Santiago peres�n (Yaco)
+# Santiago pereson (Yaco)
 feed 20m http://blog.yaco.net/feed/
     define_name Santiago Peres&#243;n (Yaco)
 
@@ -241,7 +241,7 @@ feed 20m http://pythonentretodos.blogspot.com/feeds/posts/default
     define_name Python Entre Todos
 
 # Juan Bautista Cabral
-feed 20m http://jbcabral.wordpress.com/feed/
+feed 20m http://jbcabral.com/feed/
     define_name Juan Bautista Cabral
 
 # Juan Rodriguez Monti
