@@ -13,7 +13,10 @@ class MakoPlugin:
         self.lookup.put_string('actual',template)
         t=self.lookup.get_template('actual')
         try:
-            r=t.render_unicode(**bits)
+            bits2 = {}
+            for key, value in bits.items():
+                bits2[str(key)] = value
+            r=t.render_unicode(**bits2)
         except:
             r=exceptions.html_error_template().render()
         result.value=r

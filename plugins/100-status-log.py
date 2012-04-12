@@ -116,9 +116,11 @@ class StatusLogPlugin:
 					break
 				val += 1
 			colour = display_as[val][1]
-
-			if feeds[url][n][2] < val:
-				feeds[url][n] = (colour, status, val)
+                        try:
+   	                    if feeds[url][n][2] < val:
+			        feeds[url][n] = (colour, status, val)
+                        except:
+                            break
 
 		f.close()
 
