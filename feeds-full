@@ -31,8 +31,8 @@ feed 20m http://www.juanjoconti.com.ar/feed/
     define_name Juanjo Conti
     
 # Leito Monk
-feed 20m http://audiolibre.com.ar/?feed=atom
-    define_name Leito Monk
+#feed 20m http://audiolibre.com.ar/?feed=atom
+#    define_name Leito Monk
 
 # Humitos
 feed 20m http://feeds.feedburner.com/Humitos

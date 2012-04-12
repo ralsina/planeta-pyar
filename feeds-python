@@ -61,8 +61,8 @@ feed 20m http://feeds2.feedburner.com/PostsInLateralOpinionAboutPython
 # No tiene RSS solo python
 
 # Sebastian Bassi
-feed 20m http://py4bio.com/feed/atom/
-    define_name Sebasti&#225;n Bassi
+#feed 20m http://py4bio.com/feed/atom/
+#    define_name Sebasti&#225;n Bassi
 
 # Mariano Guerra
 feed 20m http://marianoguerra.blogspot.com/feeds/posts/default/-/python
