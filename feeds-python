@@ -181,7 +181,7 @@ feed 20m http://www.tail-f.com.ar/tag/python/feed
     define_name Andr&#233;s Gattinoni
 
 # Python Entre Todos
-feed 20m http://pythonentretodos.blogspot.com/feeds/posts/default
+feed 20m http://blogrevista.python.org.ar/feeds/posts/default
     define_name Python Entre Todos
 
 feed 20m http://twitter.com/statuses/user_timeline/260832874.rss
