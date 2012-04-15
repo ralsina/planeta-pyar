@@ -236,10 +236,6 @@ feed 20m http://www.tail-f.com.ar/feed
 feed 20m http://feeds.feedburner.com/maxirobaina
     define_name Maximiliano Robaina
 
-# Python Entre Todos
-feed 20m http://blogrevista.python.org.ar/feeds/posts/default
-    define_name Python Entre Todos
-
 # Juan Bautista Cabral
 feed 20m http://jbcabral.com/feed/
     define_name Juan Bautista Cabral
