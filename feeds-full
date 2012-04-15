@@ -106,8 +106,8 @@ feed 20m http://prosciutto.boutiquestartups.com/rss.php?blogId=1&profile=atom&pl
    define_name Mario Zorz
 
 # Santiago pereson (Yaco)
-feed 20m http://blog.yaco.net/feed/
-    define_name Santiago Peres&#243;n (Yaco)
+#feed 20m http://blog.yaco.net/feed/
+#    define_name Santiago Peres&#243;n (Yaco)
 
 # Diego Sarmentero
 feed 20m http://utopia555.blogspot.com/feeds/posts/default
