@@ -40,8 +40,8 @@ feed 20m http://feeds2.feedburner.com/ElBlogDeMarcelo_python
     define_name Marcelo Fern&#225;ndez
 
 # Mariano Draghi (Chaghi)
-#feed 20m http://www.chaghi.com.ar/blog/rss/atom/1/8
-#    define_name Mariano Draghi (cHagHi)
+feed 20m http://feeds.feedburner.com/ElBlogDeChaghi/Python
+    define_name Mariano Draghi (cHagHi)
 
 # Marcos Dione
 feed 20m http://www.grulic.org.ar/~mdione/glob/tags/python/index.atom
