@@ -51,8 +51,8 @@ feed 20m http://www.grulic.org.ar/~mdione/glob/index.atom
     define_name Marcos Dione
     
 # Nico Cesar
-feed 20m http://blog.nicocesar.com/?q=rss.xml
-    define_name Nicol&#225;s C&#233;sar
+#feed 20m http://blog.nicocesar.com/?q=rss.xml
+#    define_name Nicol&#225;s C&#233;sar
     
 # PyAr OLPC
 feed 20m http://pyar-olpc.blogspot.com/feeds/posts/default
