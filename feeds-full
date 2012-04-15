@@ -128,7 +128,7 @@ feed 20m http://scialvarez.blogspot.com/feeds/posts/default
 #    define_name Santiago Bruno
 
 # Paul M. Dorr
-feed 20m http://desarrollandoideas.com.ar/?feed=rss2
+feed 20m http://desarrollandoideas.com.ar/feed/
     define_name Paul M. Dorr
 
 
