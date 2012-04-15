@@ -165,8 +165,8 @@ feed 20m http://nqnwebs.com/?page=backend
     define_name Mart&#237;n Gait&#225;n
 
 # Gustavo Carmona
-feed 20m http://awtt.wordpress.com/feed/
-    define_name Gustavo Carmona
+#feed 20m http://awtt.wordpress.com/feed/
+#    define_name Gustavo Carmona
 
 # Francisco Gabriel Malbrán
 feed 20m http://yunoparatodos.blogspot.com/feeds/posts/default
